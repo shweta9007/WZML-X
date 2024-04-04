@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+python3
 from threading import Thread
 from base64 import b64decode
 from json import loads
